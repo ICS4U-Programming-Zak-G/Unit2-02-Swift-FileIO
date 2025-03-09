@@ -1,0 +1,5 @@
+The sum of the valid integers is 40.
+Error: The line "Hello 9 8 7 1" contains an invalid value.
+The sum of the valid integers is 4.
+There are no integers on this line.
+The sum of the valid integers is 0.
